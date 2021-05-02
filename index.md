@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<html>
 <head>
-  <title>About Me</title>
   <meta charset="utf-8">
   <link href="stylesheet.css" rel="stylesheet">
 </head>
@@ -42,4 +40,3 @@
 
 
 </body>
-</html>
