@@ -1,11 +1,9 @@
-<!DOCTYPE html>
 <head>
   <meta charset="utf-8">
   <link href="stylesheet.css" rel="stylesheet">
 </head>
 
 <body>
-  <!HTML COMMENT!>
 <div class="header">
   <h1>Header</h1>
   <p>My supercool header</p>
