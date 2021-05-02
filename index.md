@@ -5,9 +5,10 @@
 
 <body>
 <div class="header">
-  <h1>Header</h1>
-  <p>My supercool header</p>
+  <h1>My Website</h1>
+  <p>A website created by me.</p>
 </div>
+
 <h1 class="other">Hello world</h1>
 <h1 class="other">About ME</h1>
 <h2>Stories about a nice Canadian</h2>
