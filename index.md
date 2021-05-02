@@ -7,7 +7,7 @@
 <div class="navbar">
   <a href="https://www.google.com">Google</a>
   <a href="booksummaries.md">Book Summaries</a>
-  <a href="#">Link</a>
+  <a href="#">Essays</a>
   <a href="#" class="right">Link</a>
 </div>
 <div class="header">
