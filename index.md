@@ -3,16 +3,7 @@
 <head>
   <title>About Me</title>
   <meta charset="utf-8">
-  <style>
-    body {font-family: Helvetica, Arial, sans-serif}
-    h1 {
-          color: #8001ff;
-          font-size: 60px;
-          text-decoration: underline;
-          text-transform: uppercase;
-      */CSS comment*/
-    }
-  </style>
+  <link href="https://github.com/j-underdown/j-underdown.github.io/blob/main/stylesheet.css" rel="stylesheet">
 </head>
 
 <body>
