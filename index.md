@@ -3,7 +3,7 @@
 <head>
   <title>About Me</title>
   <meta charset="utf-8">
-  <link href="https://github.com/j-underdown/j-underdown.github.io/blob/main/stylesheet.css" rel="stylesheet">
+  <link href="stylesheet.css" rel="stylesheet">
 </head>
 
 <body>
