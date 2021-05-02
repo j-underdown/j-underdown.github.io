@@ -4,3 +4,7 @@ h1 {
   text-decoration: underline;
   text-transform: uppercase;
 }
+
+body {
+  font-family: Helvetica, Arial, sans-serif
+}
