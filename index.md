@@ -26,8 +26,8 @@
 <a href="https://www.google.com">Google</a>
 
 <h1>Hot damn! You can post images too?</h1>
-<p>
-  Why yes, you can!     <img src="https://memegenerator.net/img/instances/64849567/i-feel-like-the-happiest-person-alive.jpg" alt="Wa-bam!">
+<p> Why yes, you can! </p>
+<p><img src="https://memegenerator.net/img/instances/64849567/i-feel-like-the-happiest-person-alive.jpg" alt="Wa-bam!">
 </p>
 
 <h1>A figure with a source in it </h1>
