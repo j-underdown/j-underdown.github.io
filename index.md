@@ -4,6 +4,12 @@
 </head>
 
 <body>
+<div class="navbar">
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#" class="right">Link</a>
+</div>
 <div class="header">
   <h1>My Website</h1>
   <p>A website created by me.</p>
