@@ -6,7 +6,10 @@
 
 <body>
   <!HTML COMMENT!>
-
+<div class="header">
+  <h1>Header</h1>
+  <p>My supercool header</p>
+</div>
 <h1>Hello world</h1>
 <h1>About ME</h1>
 <h2>Stories about a nice Canadian</h2>
