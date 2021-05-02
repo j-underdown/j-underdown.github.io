@@ -1,18 +1,16 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <title>About Me</title>
   <meta charset="utf-8">
   <style>
-    /* CSS comment */
-
     body {font-family: Helvetica, Arial, sans-serif}
     h1 {
           color: #8001ff;
           font-size: 60px;
           text-decoration: underline;
           text-transform: uppercase;
+      */CSS comment*/
     }
   </style>
 </head>
