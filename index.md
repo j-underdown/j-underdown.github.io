@@ -5,7 +5,7 @@
 
 <body>
 <div class="navbar">
-  <a href="#">Link</a>
+  <a href="www.google.com">Google</a>
   <a href="#">Link</a>
   <a href="#">Link</a>
   <a href="#" class="right">Link</a>
