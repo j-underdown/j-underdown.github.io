@@ -7,7 +7,6 @@
 
 <body>
 <div class="navbar">
-  <a href="cv.html">CV</a>
   <a href="portfolio.html">Portfolio</a>
   <a href="writing.html">Writing</a>
   <a href="booknotes.html">Book Notes</a>
