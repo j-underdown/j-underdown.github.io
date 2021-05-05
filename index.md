@@ -11,6 +11,7 @@
   <a href="portfolio.html">Portfolio</a>
   <a href="writing.html">Writing</a>
   <a href="booknotes.html">Book Notes</a>
+  <a href="index.html" class="right">Home</a>
 </div>
 <div class="header">
   <p><h1>Hi, I'm Julian</h1></p>
