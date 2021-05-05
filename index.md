@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
   <meta charset="utf-8">
   <link href="stylesheet.css" rel="stylesheet">
@@ -48,3 +50,4 @@
 
 
 </body>
+</html>
