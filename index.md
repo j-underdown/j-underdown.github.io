@@ -7,10 +7,10 @@
 
 <body>
 <div class="navbar">
-  <a href="https://www.google.com">Google</a>
+  <a href="cv.html">CV</a>
+  <a href="portfolio.html">Portfolio</a>
+  <a href="writing.html">Writing</a>
   <a href="booknotes.html">Book Notes</a>
-  <a href="#">Essays</a>
-  <a href="#" class="right">Link</a>
 </div>
 <div class="header">
   <p><h1>Hi, I'm Julian</h1></p>
