@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>Julian Underdown</title>
   <meta charset="utf-8">
   <link href="stylesheet.css" rel="stylesheet">
 </head>
@@ -13,8 +14,8 @@
   <a href="#" class="right">Link</a>
 </div>
 <div class="header">
-  <h1>My Website</h1>
-  <p>A website created by me.</p>
+  <p><h1>Hi, I'm Julian</h1></p>
+  <p><h2>Here you'll find a collection of my work</h2></p>
 </div>
 
 <h1 class="other">Hello world</h1>
