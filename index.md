@@ -15,7 +15,7 @@
 </div>
 <div class="header">
   <p><h1>Hi, I'm Julian</h1></p>
-  <p>Here you'll find a collection of my work<</p>
+  <p>Here you'll find a collection of my work</p>
 </div>
 
 </body>
