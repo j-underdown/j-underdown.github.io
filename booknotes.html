@@ -10,6 +10,7 @@
   <a href="portfolio.html">Portfolio</a>
   <a href="writing.html">Writing</a>
   <a href="booknotes.html">Book Notes</a>
+  <a href="contact.html">Contact</a>
   <a href="index.html" class="right">Home</a>
 </div>
 <div class="header">
