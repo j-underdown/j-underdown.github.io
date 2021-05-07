@@ -25,11 +25,11 @@
   color: black; /* Black text color */
 }
 
-.header {
-  padding: 80px; /* some padding */
-  text-align: center; /* center the text */
-  background: #1abc9c; /* green background */
-  color: white; /* white text color */
+.book_blurb {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 }
 
 /* Increase the font size of the <h1> element */
