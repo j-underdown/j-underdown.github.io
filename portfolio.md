@@ -14,7 +14,7 @@
   <a href="index.html" class="right">Home</a>
 </div>
 <div class="header">
-  <p><h1>Portfolio</h1></p>
+  <p><h1>Portfolio Olio</h1></p>
   <p>Work highlights</p>
 </div>
   
