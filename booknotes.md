@@ -18,8 +18,8 @@
   <p>Here you'll find a collection of my work</p>
 </div>
 <div class="bookblurb">
-  <strong>How to Read a Book</strong> (Adler and Van Doren, YYYY): a collection of frameworks for extracting value from books.  
+  <strong>How to Read a Book</strong> (Adler and Van Doren, YYYY): a collection of frameworks for extracting value from books. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 </div>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
 </body>
 </html>
