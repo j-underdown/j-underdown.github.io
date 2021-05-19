@@ -1,50 +1,96 @@
-/* Style the top navigation bar */
-.navbar {
-  overflow: hidden; /* Hide overflow */
-  background-color: #333; /* Dark background color */
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #FFFFFF;
+  overflow: hidden;
+  list-style:none;
+  text-align:center;
 }
 
-/* Style the navigation bar links */
-.navbar a {
-  float: left; /* Make sure that the links stay side-by-side */
-  display: block; /* Change the display to block, for responsive reasons (see below) */
-  color: white; /* White text color */
-  text-align: center; /* Center the text */
-  padding: 14px 20px; /* Add some padding */
-  text-decoration: none; /* Remove underline */
+.topnav li{
+    display:inline;
 }
 
-/* Right-aligned link */
-.navbar a.right {
-  float: right; /* Float a link to the right */
+/* Style the links inside the navigation bar */
+.topnav a {
+  display: inline-block;
+  color: #4E4D5C;
+  text-align: center;
+  padding: 14px 16px;
+  position: relative;
+  right: 60px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Work Sans', sans-serif;
 }
 
-/* Change color on hover/mouse-over */
-.navbar a:hover {
-  background-color: #ddd; /* Grey background color */
-  color: black; /* Black text color */
+/* Change the color of links on hover */
+.topnav a:hover {
+  color: #87BCDE;
 }
 
-/* Increase the font size of the <h1> element */
-.header h1 {
-  font-size: 40px;
+/* Change the color of links when active */
+.topnav a.active {
+  color: #87BCDE;
+  border-bottom: 3px solid #87BCDE;
 }
 
-.header {
-  padding: 80px; /* some padding */
-  text-align: center; /* center the text */
-  background: #1abc9c; /* green background */
-  color: white; /* white text color */
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
 }
 
-.bookblurb {
-  padding-top: 50px;
-  padding-right: 100px;
-  padding-bottom: 50px;
-  padding-left: 100px ;
-  text-indent: -20px ;
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 800px) {
+  .topnav a {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
 }
 
-body {
-  font-family: Helvetica, Arial, sans-serif
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 800px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+.logo {
+float: left;
+margin-top:10px;
+margin-bottom:10px;
+position: absolute;
+left: 10px;
+}
+
+.content {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 50px;
+  margin-top:50px;
+  margin-bottom: 50px;
+  margin-left:250px;
+  margin-right:250px;
+  overflow:hidden;
+}
+
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+
+}
+
+.blog {
+font-size: 20px;
+line-height: 1.7;
+margin-bottom: 20px;
 }
