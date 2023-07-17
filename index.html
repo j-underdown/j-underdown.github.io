@@ -29,17 +29,17 @@
 	<meta name="twitter:title"
 		content="Made – For designers and web developers">
 	<meta name="twitter:description" content="Show off your best work with this beautiful, minimal and customizable portfolio theme.">
-	<meta name="twitter:image:src" content="/images/social.jpg">
+	<meta name="twitter:image:src" content="http://localhost:4000/images/social.jpg">
 
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title"
 		content="Made – For designers and web developers" />
 	<meta property="og:description" content="Show off your best work with this beautiful, minimal and customizable portfolio theme." />
-	<meta property="og:image" content="/images/social.jpg" />
+	<meta property="og:image" content="http://localhost:4000/images/social.jpg" />
 
 	
 	<!-- Font Embed Code -->
-	<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Ubuntu+Mono:400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700|Ubuntu+Mono:400,700" rel="stylesheet">
 	
 
 	<!-- Styles -->
@@ -75,7 +75,7 @@
 
 
 <body class="loading ajax-loading"
-	data-site-url="" data-page-url="/">
+	data-site-url="http://localhost:4000" data-page-url="/">
 
 
 	<header class="header--main">
@@ -102,6 +102,14 @@
 					
 					<li class="menu__list__item">
 						<a href="/blog/" class="menu__list__item__link button--text">Blog</a>
+					</li>
+					
+					<li class="menu__list__item">
+						<a href="/tags/" class="menu__list__item__link button--text">Tags</a>
+					</li>
+					
+					<li class="menu__list__item">
+						<a href="/tags/jekyll/" class="menu__list__item__link button--text">Jekyll</a>
 					</li>
 					
 					<li class="menu__cta">
@@ -328,13 +336,52 @@
 			<div class="recent-posts__list grid">
 				
 				<article class="post__card">
-  <a href="/blog/demo-post" class="post__link">
+  <a href="/blog/demo-post7" class="post__link">
     <div class="post__image" style="background-image: url(/images/demo.jpg)">
     </div>
-    <time class="post__date label--small">June 30, 2019</time>
+    <time class="post__date label--small">September 09, 2019</time>
     <h5 class="post__title subtitle">Demo post</h5>
+    <!-- Display post tags -->
+    <div class="post__tags">
+        
+            <a href="/tags/wine" class="tag-pill">Wine</a>
+        
+    </div>
   </a>
 </article>
+
+				
+				<article class="post__card">
+  <a href="/blog/demo-post6" class="post__link">
+    <div class="post__image" style="background-image: url(/images/demo.jpg)">
+    </div>
+    <time class="post__date label--small">September 09, 2019</time>
+    <h5 class="post__title subtitle">Demo post</h5>
+    <!-- Display post tags -->
+    <div class="post__tags">
+        
+            <a href="/tags/health" class="tag-pill">Health</a>
+        
+    </div>
+  </a>
+</article>
+
+				
+				<article class="post__card">
+  <a href="/blog/demo-post5" class="post__link">
+    <div class="post__image" style="background-image: url(/images/demo.jpg)">
+    </div>
+    <time class="post__date label--small">August 14, 2019</time>
+    <h5 class="post__title subtitle">Demo post</h5>
+    <!-- Display post tags -->
+    <div class="post__tags">
+        
+            <a href="/tags/sleep" class="tag-pill">Sleep</a>
+        
+    </div>
+  </a>
+</article>
+
 				
 			</div>
 
