@@ -1,0 +1,27 @@
+<div class="page-home">
+
+<section class="about">
+  {% if include.divider == true %}
+    <div class="wrap"><hr/></div>
+    {% endif %}
+  <div class="wrap grid">
+
+    <div class="about__image">
+      <img src="{{ '/images/profile.png' | relative_url }}" alt="">
+
+      {% include component-socials.html %}
+    </div>
+
+    <div class="about__content">
+      <h2 class="title">Contact</h2>
+      <p class="subtitle subtitle--light">Let's talk</p>
+
+      <p>Do we have a mutual interest? Do you have feedback on any of the content on this site? I would be happy to hear from you.</p>
+      <p>Please reach out via email below, or via one of social media platforms linked on the left.</p>
+
+      <a href="#" class="cta button--fill contact-trigger js-contact">EMAIL ME</a>
+    </div>
+  </div>
+</section>
+
+</div>
